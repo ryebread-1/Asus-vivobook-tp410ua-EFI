@@ -1,7 +1,4 @@
-# asus-vivobook-flip-14-tp410ua-hackintosh-EFI
-My hackintosh  efi
-
-<h1 align="center">Hackintosh the Thinkpad X230</h1>
+<h1 align="center">Hackintosh the Asus Vivobook flip 14</h1>
 
 <p align="center">
     <a href="https://www.apple.com/">
