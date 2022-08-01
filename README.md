@@ -25,7 +25,7 @@ My hackintosh  efi
 
 ## Update
 
-### Recent | [Changelog Archive](/Other/Changelog.md)
+### Recent |
 
 <details>
 <summary><strong> SUMMARY </strong></summary>
@@ -89,8 +89,7 @@ Read these before you start:
 - [dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/).
 - [dortania's OpenCore Post Install Guide](https://dortania.github.io/OpenCore-Post-Install/).
 - [dortania/ Getting Started with ACPI](https://dortania.github.io/Getting-Started-With-ACPI/).
-- [dortania/ opencore `multiboot`](https://github.com/dortania/OpenCore-Multiboot).
-- `Configuration.pdf` and `Differences.pdf` in each `OpenCore` releases.
+- [dortania/ opencore multiboot](https://github.com/dortania/OpenCore-Multiboot).
 
 </details>
 
@@ -117,7 +116,7 @@ Read these before you start:
 | CPU       | Intel Core i5-7200U      |
 | SSD       | Samsung 870 Evo 250GB    |
 | Display   | 14" screen hd 1920x1080p |
-| WiFi & BT | Broadcom 94360ng.        |
+| WiFi card | Broadcom 4360ng.        |
 
 
 </details>
@@ -138,8 +137,11 @@ Read these before you start:
 
 | CPU            | Single-Core | Multi-Core |
 | :------------- | ----------: | ---------: |
-| Cinebench R23  |             |       1576 |
+| Geekbench |            725      |       1790 |
 
+| GPU            | OpenCL      | Metal      |
+| :------------- | ----------: | ---------: |
+| Geekbench     |        4193 |        4035 |
 </details>
 
 # CONTACT
