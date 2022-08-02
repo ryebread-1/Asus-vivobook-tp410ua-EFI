@@ -57,6 +57,7 @@
 | WiFi                                 | ✅   | `native`  |
 | Bluetooth                            | ✅   | `native`  |
 |USB Ports                             | ✅   | `SSDT-EC-USBX-LAPTOP.aml`    |
+|SD card reader                           | ✅   | [`RealtekCardReader.kext]`(https://github.com/0xFireWolf/RealtekCardReader) |
 
 > ### Display, TrackPad, TrackPoint, and Keyboard
 
